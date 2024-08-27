@@ -2,7 +2,7 @@
 
 My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an engineer. I am learning basics for now and i hope i would have oportunity to change that in near future.
 
-![I <3 pierogi]([https://upload.wikimedia.org/wikipedia/commons/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg)](https://madameedith.com/wp-content/uploads/2022/10/pierogi-16-1024x683.jpg)
+![I <3 pierogi](https://madameedith.com/wp-content/uploads/2022/10/pierogi-16-1024x683.jpg)
 <!--
 **Jakub-Marciszonek/Jakub-Marciszonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
