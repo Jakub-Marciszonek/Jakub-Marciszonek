@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an engineer. I am learning basics for now and i hope i would have oportunity to change that in near future.
+My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an engineer. I am learning basics for now and i hope i would have oportunity to change that in near future. If you would like to meet me contact[^1] me on whatsapp or through phone. My Hobby is volleyball, basketball, video games and eating. c:
+[^1]: my phone number: +48 606206385
 
 ![I <3 pierogi](https://madameedith.com/wp-content/uploads/2022/10/pierogi-16-1024x683.jpg)
 <!--
