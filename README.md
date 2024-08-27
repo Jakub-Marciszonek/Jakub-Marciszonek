@@ -3,7 +3,7 @@
 My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an engineer. I am learning basics for now and i hope i would have oportunity to change that in near future.
 
 <picture>
-  <source media0=~¨(prefers-colors-scheme: light)¨srcset=¨(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6PZeM8Bxi6yLxQVsgaudzDI3K8WGZRcNtg&s)¨>
+  <source media0=~"(prefers-colors-scheme: light)"srcset="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6PZeM8Bxi6yLxQVsgaudzDI3K8WGZRcNtg&s)">
 
 </picture>
 <!--
