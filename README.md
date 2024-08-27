@@ -2,7 +2,10 @@
 
 My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an engineer. I am learning basics for now and i hope i would have oportunity to change that in near future.
 
-![I really love pierogi<3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6PZeM8Bxi6yLxQVsgaudzDI3K8WGZRcNtg&s)
+<picture>
+  <source media0=~¨(prefers-colors-scheme: light)¨srcset=¨(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6PZeM8Bxi6yLxQVsgaudzDI3K8WGZRcNtg&s)¨>
+
+</picture>
 <!--
 **Jakub-Marciszonek/Jakub-Marciszonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
