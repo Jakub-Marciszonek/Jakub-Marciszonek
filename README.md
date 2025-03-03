@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an engineer. I am learning basics for now and i hope i would have oportunity to change that in near future. If you would like to meet me contact[^1] me on whatsapp or [Linkedin](https://www.linkedin.com/in/kubu%C5%9B-marciszonek-859989286/). My Hobbys are video games, AI, overall technology.
+My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an engineer. I belive that I can adjust in very fast pase and I am eager to do so. If you would like to talk with me contact[^1] me on whatsapp or [Linkedin](https://www.linkedin.com/in/kubu%C5%9B-marciszonek-859989286/). To bring closer my persona I can say that I do enjoy video games and i love to play volleyball.
 [^1]: my phone number: +48 606206385 
 
 <!--
