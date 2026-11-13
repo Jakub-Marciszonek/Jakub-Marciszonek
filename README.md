@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Jakub and I am student of [LAB University of applied sciences](https://lab.fi/fi). I am from Poland and I am eager to become an cybersecurity engineer. I belive that I can adjust in very fast pase and I am willing to do so. If you would like to talk with me contact[^1] me on whatsapp or [Linkedin](https://www.linkedin.com/in/kubu%C5%9B-marciszonek-859989286/). To bring closer my persona I can say that I do enjoy video games and i love to play volleyball.
+[^1]: my phone number: +48 606206385 
+
 <!--
 **Jakub-Marciszonek/Jakub-Marciszonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
